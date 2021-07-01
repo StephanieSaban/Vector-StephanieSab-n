@@ -12,8 +12,8 @@ namespace Ejercicioo_1
         {
             char[] dato = new char[10];
             char buscar;
-            char tiempo;
-            int op = 0;
+                char tiempo;
+                int op = 0;
 
 
             Console.ReadKey();
